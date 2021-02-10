@@ -1,0 +1,7 @@
+#Please Ignore These Pesky Guys ;)
+*.tmp
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.DS_Store
